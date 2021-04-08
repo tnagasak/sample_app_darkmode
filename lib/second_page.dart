@@ -16,7 +16,7 @@ class SecondPage extends StatelessWidget {
           title: Text('2nd Page'),
         ),
         body: Center(
-          child: Text('2nd Page'),
+          child: Text('個別でのテーマ設定'),
         ),
       ),
     );
