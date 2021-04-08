@@ -1,4 +1,4 @@
-# sample_app_riverpod
+# sample_app_darkmode
 
 A new Flutter project.
 
